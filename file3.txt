@@ -3,4 +3,8 @@ redhat class start
 echo pakistan
 this is file 3 devops 
 redhat class start
-
+this is file 3 devops 
+redhat class start
+echo pakistan
+this is file 3 devops 
+redhat class start
